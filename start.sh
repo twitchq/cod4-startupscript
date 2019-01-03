@@ -12,7 +12,7 @@
 # SETUP FOR YOU 
 NAME="cod4" # SCREEN NAME
 # STARTUP COMMAND
-COMMAND='./cod4x18_dedrun +exec server.cfg +set dedicated 2 +set sv_punkbuster 0 +set sv_maxclients 22 +map_rotate +set fs_game "mods/2F4Y" +set fs_homepath "/home/serwer" +set fs_basepath "/home/serwer"'
+COMMAND='./cod4x18_dedrun +exec server.cfg +set dedicated 2 +set sv_punkbuster 0 +set sv_maxclients 22 +map_rotate +set fs_game "mods/xxx" +set fs_homepath "/home/serwer" +set fs_basepath "/home/serwer"'
 
 case "$1" in
 start)
